@@ -52,4 +52,4 @@ public class MainActivity extends AppCompatActivity {
 
 }
 
-//test from Erik, lets finish this
+//test from Erik, lets finish this 2
